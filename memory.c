@@ -1,5 +1,5 @@
 #include "shell.h"
-ll
+
 /**
  * bfree - frees a pointer and NULLs the address
  * @ptr: address of the pointer to free
